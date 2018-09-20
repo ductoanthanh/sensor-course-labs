@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">W2D1Location</string>
+    <string name="result_location">Current location: Longitude = %1$.3f and Latitude = %2$.3f</string>
+    <string name="result_distance">Walked distance: %1$.2f</string>
+</resources>
