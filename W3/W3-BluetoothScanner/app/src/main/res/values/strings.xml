@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">W3-BluetoothScanner</string>
+    <string name="scan_button">Start Bluetooth scanning</string>
+    <string name="sample_name">Device name</string>
+    <string name="sample_address">Address</string>
+    <string name="sample_strength">Strength</string>
+</resources>

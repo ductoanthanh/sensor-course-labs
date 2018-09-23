@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">W3D1-Database</string>
+    <string name="button_userDB">User database</string>
+    <string name="button_contactDB">Contact database</string>
+    <string name="button_view_list">View database</string>
+    <string name="button_done">Done</string>
+    <string name="radio_add">add</string>
+    <string name="radio_delete">delete</string>
+    <string name="radio_update">update</string>
+    <string name="editText_uID">User ID</string>
+    <string name="editText_fName">First name</string>
+    <string name="editText_lName">Last name</string>
+    <string name="editText_type">Contact type</string>
+    <string name="editText_value">Contact value</string>
+</resources>
